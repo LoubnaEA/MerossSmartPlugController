@@ -1,4 +1,3 @@
-
 # Easily control your Meross Smart Plug using this Python script ! 
 
 import asyncio
