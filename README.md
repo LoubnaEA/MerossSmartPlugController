@@ -4,6 +4,6 @@ Easily control your Meross Smart Plug using this Python script ! Toggle your sma
 ## Requirements
 https://pypi.org/project/meross-iot/
 
-Ou via l'invite de commandes  →  pip install meross-iot
+Or via the command prompt  →  pip install meross-iot
 
 
